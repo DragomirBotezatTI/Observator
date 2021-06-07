@@ -1,0 +1,12 @@
+C:\Users\Dragomir\Desktop\TMPS\Observator\Observator\Observator\bin\Debug\netcoreapp3.1\Observator.exe
+C:\Users\Dragomir\Desktop\TMPS\Observator\Observator\Observator\bin\Debug\netcoreapp3.1\Observator.deps.json
+C:\Users\Dragomir\Desktop\TMPS\Observator\Observator\Observator\bin\Debug\netcoreapp3.1\Observator.runtimeconfig.json
+C:\Users\Dragomir\Desktop\TMPS\Observator\Observator\Observator\bin\Debug\netcoreapp3.1\Observator.runtimeconfig.dev.json
+C:\Users\Dragomir\Desktop\TMPS\Observator\Observator\Observator\bin\Debug\netcoreapp3.1\Observator.dll
+C:\Users\Dragomir\Desktop\TMPS\Observator\Observator\Observator\bin\Debug\netcoreapp3.1\Observator.pdb
+C:\Users\Dragomir\Desktop\TMPS\Observator\Observator\Observator\obj\Debug\netcoreapp3.1\Observator.AssemblyInfoInputs.cache
+C:\Users\Dragomir\Desktop\TMPS\Observator\Observator\Observator\obj\Debug\netcoreapp3.1\Observator.AssemblyInfo.cs
+C:\Users\Dragomir\Desktop\TMPS\Observator\Observator\Observator\obj\Debug\netcoreapp3.1\Observator.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir\Desktop\TMPS\Observator\Observator\Observator\obj\Debug\netcoreapp3.1\Observator.dll
+C:\Users\Dragomir\Desktop\TMPS\Observator\Observator\Observator\obj\Debug\netcoreapp3.1\Observator.pdb
+C:\Users\Dragomir\Desktop\TMPS\Observator\Observator\Observator\obj\Debug\netcoreapp3.1\Observator.genruntimeconfig.cache
